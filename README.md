@@ -11,3 +11,6 @@ Circuit Diagrams/PCB: [KiCAD](https://www.kicad.org/)
 
 
 ## Textbooks
+
+## Cool Stuff
+[Animejs](https://animejs.com/)
