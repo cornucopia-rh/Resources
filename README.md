@@ -3,7 +3,8 @@
 Add things here (no matter how random) that are free and useful.
 ## Websites
 Flow Diagram: [draw.io](https://app.diagrams.net/)
-
+Github Diagram Generator: [gitdiagram.com](https://gitdiagram.com/)
+Tree Diagram Maker: [tree.nathanfriend.com](https://tree.nathanfriend.com/)
 
 ## Apps
 Circuit Diagrams/PCB: [KiCAD](https://www.kicad.org/)
