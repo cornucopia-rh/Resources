@@ -1,6 +1,9 @@
 # Resources
 > A collection of general useful resources for various purposes.
 Add things here (no matter how random) that are free and useful.
+## Unsorted
+Figma
+
 ## Websites
 Flow Diagram: [draw.io](https://app.diagrams.net/)
 
@@ -9,6 +12,8 @@ Github Diagram Generator: [gitdiagram.com](https://gitdiagram.com/)
 Tree Diagram Maker: [tree.nathanfriend.com](https://tree.nathanfriend.com/)
 
 GitHub Diagram Maker: [gitDiagram](https://gitdiagram.com/)
+
+Colors: [hue.tools](https://hue.tools/)
 
 ## Apps
 Circuit Diagrams/PCB: [KiCAD](https://www.kicad.org/)
