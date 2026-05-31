@@ -15,6 +15,8 @@ GitHub Diagram Maker: [gitDiagram](https://gitdiagram.com/)
 
 Colors: [hue.tools](https://hue.tools/)
 
+SVG Generator: [Haikei.app](https://app.haikei.app/)
+
 ## Apps
 Circuit Diagrams/PCB: [KiCAD](https://www.kicad.org/)
 [Spectral Radiation Analysis](https://sandialabs.github.io/InterSpec/)
