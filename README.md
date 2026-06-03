@@ -17,6 +17,8 @@ Colors: [hue.tools](https://hue.tools/)
 
 SVG Generator: [Haikei.app](https://app.haikei.app/)
 
+Time Scheduling: [when2meet.com](https://www.when2meet.com/)
+
 ## Apps
 Circuit Diagrams/PCB: [KiCAD](https://www.kicad.org/)
 [Spectral Radiation Analysis](https://sandialabs.github.io/InterSpec/)
